@@ -1,0 +1,4 @@
+name: "FLAIR CodeQL config"
+paths-ignore:
+  - '**/*_test.go'
+  - '**/testdata/**'
